@@ -1,0 +1,13 @@
+<svg width="260" height="380" viewBox="0 0 260 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDB95F"/>
+      <stop offset="100%" stop-color="#E05A36"/>
+    </linearGradient>
+  </defs>
+  <rect width="260" height="380" rx="18" fill="url(#bg)"/>
+  <rect x="24" y="24" width="212" height="332" rx="14" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
+  <text x="130" y="150" text-anchor="middle" font-family="'Gowun Batang', serif" font-size="26" fill="#fff" font-weight="700">GAEDDIRANG</text>
+  <text x="130" y="185" text-anchor="middle" font-family="'Pretendard', sans-serif" font-size="16" fill="rgba(255,255,255,0.9)">BOOK COLLECTION</text>
+  <text x="130" y="230" text-anchor="middle" font-family="'Pretendard', sans-serif" font-size="13" fill="rgba(255,255,255,0.85)">Replace with real cover</text>
+</svg>
